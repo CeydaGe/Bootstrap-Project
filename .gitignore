@@ -11,3 +11,7 @@
 
 # Built Visual Studio Code Extensions
 *.vsix
+
+#IMG files ignored
+
+/img
