@@ -1,3 +1,8 @@
 *{
     font-family: 'Open Sans', sans-serif;
 }
+.ccon{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
