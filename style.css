@@ -1,3 +1,8 @@
 .bg-main{
 background: #E9ECEF;
 }
+.pict{
+    max-width: auto;
+    max-height: auto;
+    border-radius: 100%;
+}
